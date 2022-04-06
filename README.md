@@ -5,7 +5,7 @@ Edgenuity helper provides additional resources to aid you in completing lessons.
 
 ### TODO
 - ~~Set clipboard text to button text~~
-- Autofill input with button text
+- ~~Autofill input with button text~~
 - Unlock capabilities for video?
 - Go to next video on completion
 
