@@ -2,7 +2,7 @@
 // @name         Edgenuity vocab helper
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Automates some mind numbing processes for edgenuity. Currently copies vocab text to clipboard when you click the button with the name of the word. Does not yet autofill.
+// @description  Automates some mind numbing processes for edgenuity. Currently autofills and autocompletes vocab for you. Mute tab and check back when its done.
 // @author       anonAuthor22
 // @match        https://*.learn.edgenuity.com/ContentViewers/Vocab/Activity
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=edgenuity.com
