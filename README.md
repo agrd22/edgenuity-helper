@@ -2,6 +2,9 @@
 
 Edgenuity helper provides additional resources to aid you in completing lessons. Currently aids in the completion of vocabulary tasks.
 
+### ARCHIVED AS OF 8/31/22
+I no longer have access to an edgenuity course, so development cannot continue. Script was working as of early '22. If you would like to make any changes, fork the repository and tinker with the code yourself. It is not obfuscated, minimized, or anything that hampers readability.
+
 
 ### TODO
 - ~~Set clipboard text to button text~~
